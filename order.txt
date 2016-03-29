@@ -1,4 +1,5 @@
 print("Input your order");
-Good afternoon!
 print("Please input number of users");
+Good afternoon!
 Good everything
+Have nice day!
