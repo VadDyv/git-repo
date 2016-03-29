@@ -1,11 +1,4 @@
 print("Input your order");
-<<<<<<< HEAD
-<<<<<<< HEAD
 Good afternoon!
-=======
-print("Please input number of users");
->>>>>>> refs/remotes/origin/feature/master-update
-=======
 print("Please input number of users");
 Good everything
->>>>>>> refs/remotes/origin/feature/master-update
