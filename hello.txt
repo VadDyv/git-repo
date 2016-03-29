@@ -1,5 +1,3 @@
 print("Hello world!");
 print("How are you, my dear friend?");
 print("Hello :)");
-
-Phssss-ssss-sss-ss-s...
